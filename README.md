@@ -3,8 +3,11 @@
  THEME : Cyber security
  
 Project  Name : Globally Accessible Password Manager For User.
+
 Leader : Nikita Khot
-Mentor: Piyush Maske
+
+Mentor: Piyush Mhaske
+
 Team members: Nikita Khot,Mrunal Khade,Trupti Patil,Khushi Patel.
 
 
